@@ -1,6 +1,6 @@
 # Netflix-Analysis
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Intro%20Image.PNG)
+![Data Analyst](https://github.com/Tomidapo/Netflix-Analysis/blob/main/201911_singapore_selects_dsc05790.jpg)
 
 ## Introduction
 This project aims to analyze the data of Express Logistics to identify areas for business growth. The data includes information on orders, products, shipping, and customers and how I optimizied logistics operations and enhancing customer experiences through data-driven insights and innovative solutions.
@@ -17,7 +17,7 @@ Express Logistics is a growing company, but it is facing some challenges. The co
 - Dashboard Development
 - Data Cleaning and Transformation
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Express%20Logistics%20Image.jpg)
+![Data Analyst](https://github.com/Tomidapo/Netflix-Analysis/blob/main/maxresdefault-2.jpg)
 
 ## Modelling
 We implemented various predictive models to forecast demand, optimize routes, and enhance inventory management, ensuring timely and efficient deliveries.
@@ -28,7 +28,7 @@ Interactive visualizations were created Using **Power Bi** to represent key insi
 
 ## Analysis
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Decomposition%20Tree%20Analysis.PNG)
+![Data Analyst]()
 
 The analysis showed that the following areas have the potential for business growth:
 1. Expanding into new regions
@@ -40,7 +40,7 @@ The analysis showed that the following areas have the potential for business gro
 ## Dashboard View
 Our interactive dashboard provides a comprehensive overview of logistics performance metrics, customer feedback analysis, and real-time tracking of deliveries.
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Main%20Dashboard.PNG)
+![Data Analyst](https://github.com/Tomidapo/Netflix-Analysis/blob/main/maxresdefault%203.jpg)
 
 
 ## Recommendations for Business Growth:
@@ -69,9 +69,7 @@ Launch a customer referral program. Offer discounts for successful referrals, ex
 Implement an inventory tracking system to avoid overstocking or shortages. Utilize data insights to predict demand and stock accordingly.
 
 
-### Thank You 
-For more info you can [Email me](muideenadeakanni@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeadeakanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muideenadeakanni)  
 
-![Data Analyst](https://github.com/princeadeakanni/WeCare-Attrition/blob/main/My%20banner.png)
+
+
