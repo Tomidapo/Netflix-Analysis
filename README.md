@@ -28,7 +28,7 @@ Interactive visualizations were created Using **Power Bi** to represent key insi
 
 ## Analysis
 
-![Data Analyst]()
+![Data Analyst](https://github.com/Tomidapo/Netflix-Analysis/blob/main/maxresdefault%203.jpg)
 
 The analysis showed that the following areas have the potential for business growth:
 1. Expanding into new regions
@@ -40,7 +40,7 @@ The analysis showed that the following areas have the potential for business gro
 ## Dashboard View
 Our interactive dashboard provides a comprehensive overview of logistics performance metrics, customer feedback analysis, and real-time tracking of deliveries.
 
-![Data Analyst]()
+![Data Analyst](https://github.com/Tomidapo/Netflix-Analysis/blob/main/maxresdefault%202.jpg)
 
 
 ## Recommendations for Business Growth:
