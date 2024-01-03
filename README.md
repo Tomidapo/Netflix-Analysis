@@ -69,6 +69,11 @@ Launch a customer referral program. Offer discounts for successful referrals, ex
 Implement an inventory tracking system to avoid overstocking or shortages. Utilize data insights to predict demand and stock accordingly.
 
 
+### Thank You 
+For more info you can [Email me](tomidapo03@gmail.com)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tomidapo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomisinadedapo/)  
+
 
 
 
